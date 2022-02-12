@@ -1,0 +1,7 @@
+Step 1:
+        goto the website and download the current PHP_HTML_DOM on sourceforge link
+        https://simplehtmldom.sourceforge.io/
+
+Step 2:
+        create a php file and include the following file on the downloaded zip file
+        include_once('simple_html_dom.php');
